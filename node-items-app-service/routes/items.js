@@ -13,7 +13,7 @@ const data = [
     { id: 7, title: 'Have a plate of Meal', order: 7, completed: false, createdOn: new Date() },
    
 ];
-];
+
 
 // READ
 // this api end-point of an API returns JSON data array
